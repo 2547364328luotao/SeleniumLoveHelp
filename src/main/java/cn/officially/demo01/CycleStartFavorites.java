@@ -134,7 +134,7 @@ public class CycleStartFavorites {
             // 点击“已完成”按钮
             try {
                 // 使用显式等待查找“已完成”按钮，并确保它可点击
-                WebElement finishButton = Wait.until(ExpectedConditions.elementToBeClickable(By.xpath("/html/body/div[3]/div/div[6]/button[1]")));
+                WebElement finishButton = Wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("body > div.swal2-container.swal2-center.swal2-backdrop-show > div > div.swal2-actions > button.swal2-confirm.swal2-styled")));
                 finishButton.click();
             } catch (Exception e) {
                 System.err.println("点击已完成按钮时发生错误");
