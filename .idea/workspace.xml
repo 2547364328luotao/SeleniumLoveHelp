@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="83be209d-2117-4366-9619-72f8cc28e7ee" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/officially/demo01/CycleStartFavorites.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/officially/demo01/CycleStartFavorites.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/officially/demo01/OpenLoveHelp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/officially/demo01/OpenLoveHelp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,7 +190,7 @@
       <workItem from="1727541999887" duration="2837000" />
       <workItem from="1727585536338" duration="3216000" />
       <workItem from="1727598029092" duration="729000" />
-      <workItem from="1727612218623" duration="2180000" />
+      <workItem from="1727612218623" duration="3003000" />
     </task>
     <servers />
   </component>
