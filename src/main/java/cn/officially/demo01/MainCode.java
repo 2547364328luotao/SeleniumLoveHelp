@@ -32,6 +32,8 @@ public class MainCode {
         }
     }
 
+    //--module-path "C:\Program Files\javaFx\javafx-sdk-21.0.4\lib" --add-modules javafx.controls,javafx.fxml
+
     public static void main(String[] args) {
         TaskType = null;
         loadPropertiesTask();
@@ -44,10 +46,10 @@ public class MainCode {
             // 打开任务页面
             switch (TaskType) {
                 case "CycleStartLike":
-                    driver.get("https://lovehelp.xyz/earn-bilibili-likes");
+                    driver.get("https://www.idiandian.xyz/earn-bilibili-likes");
                     break;
                 case "CycleStartFavorites":
-                    driver.get("https://lovehelp.xyz/earn-bilibili-favorites");
+                    driver.get("https://www.idiandian.xyz/earn-bilibili-favorites");
                     break;
                 default:
                     System.err.println("未知任务类型: " + TaskType);
